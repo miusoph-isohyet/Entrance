@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="Entrance.html" source="original">
+    <mtime>1761587603</mtime>
+    <size>159250</size>
+    <md5>f247cbb629cbe6f4fd6077d95f16fefc</md5>
+    <crc32>4a35a681</crc32>
+    <sha1>1b9c1c34fdb175904fdb062639405e7b334e58de</sha1>
+    <format>HTML</format>
+  </file>
+  <file name="entrance_20251027_archive.torrent" source="metadata">
+    <btih>71c2d46c61197702498e73a4a9ea473abb074a05</btih>
+    <mtime>1761587665</mtime>
+    <size>1692</size>
+    <md5>40c52caf2e1df80fb913ccf3a3fc2ba0</md5>
+    <crc32>982bd1bf</crc32>
+    <sha1>43c36c2bfda56353c792d2b0a7730ea78ac6157a</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="entrance_20251027_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>ce46e87d9907c2358b4b4f0cd77e2b9d</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="entrance_20251027_meta.sqlite" source="original">
+    <mtime>1761587637</mtime>
+    <size>20480</size>
+    <md5>33826a0a064264fa6ba409fbdcb9e284</md5>
+    <crc32>df2f7b7c</crc32>
+    <sha1>1d47c2cfc662a8136c5a0345c464747769380b2e</sha1>
+    <format>Metadata</format>
+  </file>
+  <file name="entrance_20251027_meta.xml" source="original">
+    <mtime>1761587659</mtime>
+    <size>868</size>
+    <md5>bbbfd03cf10dad2fa86ef2ab772566d3</md5>
+    <crc32>4deade33</crc32>
+    <sha1>4871e294d3b818cad70dd95fcd2bea317c1c9d5d</sha1>
+    <format>Metadata</format>
+  </file>
+</files>
